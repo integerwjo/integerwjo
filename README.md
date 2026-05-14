@@ -1,19 +1,8 @@
-﻿# integerwjo
-# Hi, I'm Wandera 👋
+﻿# integerw
+# Hi! I'm Wandera
+I enjoy building fast and secure software and learning how systems work under the hood.
 
-I enjoy building software and learning how systems work under the hood.
+Currently doing:
+- Rust for systems programming
+- Distributed systems with go
 
-Currently focused on:
-- Rust systems programming
-- Distributed systems
-
-
-## Currently Learning
-- Network programming in Rust
-- Operating systems concepts
-- Concurrent systems and multithreading
-
-## Goals
-- Build performant backend systems
-- Contribute to open source
-- Deepen my understanding of networking and distributed systems
