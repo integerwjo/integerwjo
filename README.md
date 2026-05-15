@@ -1,4 +1,4 @@
-﻿Hi! I'm Wandera\n 
+﻿Hi! I'm Wandera, 
 I enjoy building fast and secure software and learning how systems work under the hood.
 
 Currently doing:
