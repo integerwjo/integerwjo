@@ -1,6 +1,5 @@
-﻿Hi! I'm Wandera, 
-I enjoy building fast and secure software and learning how systems work under the hood.
+﻿Hi! I'm Wandera. I build fast and secure software and love learning how systems work under the hood.
 
 Currently doing:
-- Rust for systems 
 
+Distributed systems
